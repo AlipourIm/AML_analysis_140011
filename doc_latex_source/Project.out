@@ -1,0 +1,30 @@
+\BOOKMARK [1][-]{section.1}{مقدمه}{}% 1
+\BOOKMARK [1][-]{section.2}{آماده سازی اولیه}{}% 2
+\BOOKMARK [1][-]{section.3}{نرمال سازی داده ها}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{بررسی نرمال بودن داده‌ها}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{کاهش ابعاد و PCA}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{نمودار همبستگی Heatmap}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{پیدا کردن تفاوت‌های بیان ژن در سلول بیماران و سلول‌های سالم}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{تحلیل Gene Ontology و Pathways به کمک Enrichr}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{تحلیل ژن‌ها با بیان بالاتر در سلول‌های بیمار}{section.4}% 9
+\BOOKMARK [3][-]{subsubsection.4.1.1}{تحلیل Pathway}{subsection.4.1}% 10
+\BOOKMARK [3][-]{subsubsection.4.1.2}{تحلیل Gene Ontology}{subsection.4.1}% 11
+\BOOKMARK [2][-]{subsection.4.2}{تحلیل ژن‌ها با بیان پایین‌تر در سلول‌های بیمار}{section.4}% 12
+\BOOKMARK [3][-]{subsubsection.4.2.1}{تحلیل Pathway}{subsection.4.2}% 13
+\BOOKMARK [3][-]{subsubsection.4.2.2}{تحلیل Gene Ontology}{subsection.4.2}% 14
+\BOOKMARK [1][-]{section.5}{توضیحات مختلف در مورد AML}{}% 15
+\BOOKMARK [2][-]{subsection.5.1}{آشنایی با AML}{section.5}% 16
+\BOOKMARK [3][-]{subsubsection.5.1.1}{AML چیست؟}{subsection.5.1}% 17
+\BOOKMARK [3][-]{subsubsection.5.1.2}{مغز استخوان}{subsection.5.1}% 18
+\BOOKMARK [3][-]{subsubsection.5.1.3}{انواع سلول‌های خونی}{subsection.5.1}% 19
+\BOOKMARK [3][-]{subsubsection.5.1.4}{ریسک فاکتور‌ها}{subsection.5.1}% 20
+\BOOKMARK [3][-]{subsubsection.5.1.5}{علائم AML}{subsection.5.1}% 21
+\BOOKMARK [3][-]{subsubsection.5.1.6}{علت ابتلا به AML}{subsection.5.1}% 22
+\BOOKMARK [3][-]{subsubsection.5.1.7}{پیشگیری از AML}{subsection.5.1}% 23
+\BOOKMARK [2][-]{subsection.5.2}{بررسی ارتباطات نتایج تحلیل دادگان ریزآرایه و AML}{section.5}% 24
+\BOOKMARK [1][-]{section.6}{بررسی روش های دیگر کاهش ابعاد}{}% 25
+\BOOKMARK [2][-]{subsection.6.1}{روش های خطی}{section.6}% 26
+\BOOKMARK [2][-]{subsection.6.2}{روش های غیر خطی}{section.6}% 27
+\BOOKMARK [2][-]{subsection.6.3}{روش هایی که فقط مهم ترین ویژگی هارا نگه میدارند}{section.6}% 28
+\BOOKMARK [1][-]{section.7}{فایل‌های تحویلی}{}% 29
+\BOOKMARK [1][-]{section.8}{نتیجه‌گیری نهایی}{}% 30
